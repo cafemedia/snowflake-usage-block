@@ -1,4 +1,5 @@
-connection: "account_usage"
+#connection: "account_usage"
+connection: "snowflake_cost_usage"
 
 # include all the views
 include: "*.view"
